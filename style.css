@@ -15,6 +15,18 @@ body{
     font-weight: bold;
 }
 
+p{
+    font-size: 14px;
+}
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+a.font-black{
+    color: black !important;
+}
+
 /***********
 
 ABOUT
@@ -56,3 +68,28 @@ ABOUT
     color:black;
 
 }
+
+/**********
+
+PROJECT
+
+**********/
+
+#project{
+    margin: 60px auto;
+    width: 100%;
+}
+#project h2{
+    text-align: center;
+}
+
+#project .card img{
+    border-radius: 0%;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 120px;
+}
+#project .card-title{
+    font-weight: bold;
+}
+
