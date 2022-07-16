@@ -6,9 +6,10 @@ COMMON
 
 body{
     font-family: "monospace", sans-serif;
+    background-color: rgb(63, 95, 53);
 }
 .font-primary{
-    color: #00abae;
+    color: #0088ae;
 }
 .title-icon{
     font-size: 20px;
@@ -40,7 +41,7 @@ ABOUT
 }
 #about img{
     border-radius: 50%;
-    width: 120px;
+    width: 125px;
     margin-bottom: 10px;
 }
 #about .name{
