@@ -1,96 +1,107 @@
-/*******************
-
-COMMON
-
-********************/
-
-body{
-    font-family: "monospace", sans-serif;
-    background-color: rgb(244, 236, 149);
-}
-.font-primary{
-    color: #0088ae;
-}
-.title-icon{
-    font-size: 20px;
+body {
+    font-family: "monospace", "sans-serif";
+  }
+  .font-primary {
+    color: #00ABAE;
+  }
+  .title-icon {
+    font-size: 28px;
     font-weight: bold;
-}
-
-p{
+  }
+  p {
     font-size: 14px;
+    font-weight: 100;
 }
-h2{
+  h2 {
     font-weight: bold;
     font-size: 23px;
     margin-bottom: 20px;
-}
-a.font-black{
-    color: black !important;
-}
-
-/***********
-
-ABOUT
-
-***********/
-
-#about{
+  }
+  a.font-black {
+    color: #000 !important;
+  }
+  /* about  */
+  #about {
     margin: 60px auto;
     max-width: 400px;
     text-align: center;
-}
-#about img{
-    border-radius: 50%;
-    width: 125px;
+  }
+  #about img {
+    border-radius: 99%;
+    width: 8vw;
     margin-bottom: 10px;
-}
-#about .name{
+    height: 8vw;
+  }
+  #about .name {
     font-size: 19px;
-}
-#about .vocation{
+  }
+  #about .vocation {
     font-size: 17px;
-    color: #A8A8AB;
+    color: #8F8F8F;
     margin-bottom: 10px;
-}
-#about .skills{
+  }
+  #about .skills {
     font-size: 14px;
-    color: #00abae;
+    color: #00ABAE;
     margin-bottom: 10px;
-}
-#about .email{
-    margin-top: 14px;
-    font-size: 14px;
-}
-#about .icons{
+  }
+  #about .email {
+    margin-top: 10px;
+    font-size: 15px;
+  }
+  #about .icons {
     margin-top: 20px;
-    font-size: 30px;
-}
-#about .icons a{
-    color:black;
-
-}
-
-/**********
-
-PROJECT
-
-**********/
-
-#project{
+    font-size: 40px;
+  }
+  #about .icons a {
+    color: #000;
+  }
+  #project {
     margin: 60px auto;
-    width: 100%;
-}
-#project h2{
+    width: 80%;
+  }
+  #project h2 {
     text-align: center;
-}
-
-#project .card img{
+  }
+  #project .card {
     width: 100%;
-}
-#project .card-title{
+  }
+  #project .card img {
+    width: 100%;
+  }
+  #project .card-title {
     font-weight: bold;
-}
-#project .card{
-    margin: 0 60px;
-}
+  }
+  .project-video {
+    width: 100%;
+    height: 300px;
+    background-color: black;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
